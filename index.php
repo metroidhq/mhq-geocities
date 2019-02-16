@@ -1,3 +1,3 @@
 <?php 
-	header("Location: /oldmhq/metroidheadquarters.html");
+	header("Location: /oldmhq/index.html");
 ?>
